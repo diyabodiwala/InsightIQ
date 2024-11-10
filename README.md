@@ -21,7 +21,7 @@
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/InsightIQ.git
+    git clone https://github.com/diyabodiwala/InsightIQ.git
     cd InsightIQ
     ```
 
